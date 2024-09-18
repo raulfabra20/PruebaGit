@@ -13,6 +13,7 @@ public class N3Ex1 {
 
     public static void main(String[] args) {
         Redaccio redaccio = new Redaccio();
+        //Raúl
 
         boolean sortir = false;
 
