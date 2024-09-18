@@ -1,7 +1,6 @@
 package n3ex1;
 
 import java.util.ArrayList;
-import java.util.concurrent.ThreadLocalRandom;
 
 import herencia.Noticia;
 
